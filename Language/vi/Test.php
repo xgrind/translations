@@ -9,8 +9,7 @@
  * the LICENSE file that was distributed with this source code.
  */
 
-// Log language settings
+// Testing language settings
 return [
-    'invalidLogLevel'    => '{0} is een ongeldig log level.',
-    'invalidMessageType' => 'Het type bericht "{0}" is niet ondersteund.',
+    'invalidMockClass' => '{0} không phải là lớp mô phỏng hợp lệ',
 ];

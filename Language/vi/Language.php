@@ -9,8 +9,7 @@
  * the LICENSE file that was distributed with this source code.
  */
 
-// Log language settings
+// "Language" language settings
 return [
-    'invalidLogLevel'    => '{0} is een ongeldig log level.',
-    'invalidMessageType' => 'Het type bericht "{0}" is niet ondersteund.',
+    'invalidMessageFormat' => 'Định dạng tin nhắn không hợp lệ: "{0}", Tham số: "{1}"',
 ];
